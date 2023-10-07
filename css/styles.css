@@ -50,6 +50,7 @@ img {
     border-bottom: 1px solid #e7e9fc;
     background: #fff;
     color: #2e2f42;
+    box-shadow:
 }
 
 
@@ -466,3 +467,15 @@ img {
     letter-spacing: 0.02em;
     max-width: 264px;
 }
+
+.footer__items_social {}
+
+.footer__item_subtitle {}
+
+.footer__social_links {}
+
+.footer__social_link {}
+
+.footer__link {}
+
+.footer__item_icon {}
