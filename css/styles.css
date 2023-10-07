@@ -499,14 +499,8 @@ img {
     max-width: 264px;
 }
 
-.footer__items_social {}
-
-.footer__item_subtitle {}
-
-.footer__social_links {}
-
-.footer__social_link {}
-
-.footer__link {}
-
-.footer__item_icon {}
+.container .footer-container {
+    display: flex;
+    align-items: baseline;
+    margin-right: 120px;
+}
