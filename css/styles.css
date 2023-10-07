@@ -111,7 +111,7 @@ img {
     color: #404bbf;
 }
 
-.header-nav-link::after {
+.menu-link::after {
     content: '';
     position: absolute;
     left: 0;
@@ -121,7 +121,7 @@ img {
     border-radius: 2px;
 }
 
-.header-nav-link::after {
+.menu-link::after {
     content: '';
     width: 48px;
     height: 4px;
