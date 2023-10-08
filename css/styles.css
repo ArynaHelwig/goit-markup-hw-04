@@ -560,10 +560,9 @@ img {
 
 .contacts-container {}
 
-/* .footer-wrap {
-    display: flex;
-    align-items: baseline
-} */
+.footer-wrap {
+    margin-right: 120px;
+}
 
 .contacts-text {
     font-weight: 500;
