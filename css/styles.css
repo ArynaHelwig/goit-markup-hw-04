@@ -212,7 +212,6 @@ img {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #f4f4fd;
     border-radius: 4px;
     margin-bottom: 8px;
 }
@@ -251,15 +250,11 @@ img {
 }
 
 .features-icons {
-    width: 264px;
-    height: 112px;
     flex-shrink: 0;
     display: flex;
     align-items: center;
     justify-content: center;
     border-radius: 4px;
-    border: 1px solid #8E8F99;
-    background: #F4F4FD;
     gap: 24px;
     margin-bottom: 8px;
     padding-top: 24px 100px 24px 100px;
