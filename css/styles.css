@@ -528,9 +528,10 @@ img {
 .footer {
     background: #2e2f42;
     padding: 100px 0;
+    margin-right: 120px;
 }
 
-.footer-container {
+.container .footer-container {
     margin-right: 120px;
 }
 
