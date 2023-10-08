@@ -533,6 +533,7 @@ img {
     text-transform: uppercase;
     display: inline-block;
     margin-bottom: 16px;
+    text-decoration: none;
 }
 
 .footer-studio {
