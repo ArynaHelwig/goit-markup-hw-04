@@ -521,6 +521,8 @@ img {
 
 .footer-container {
     margin-right: 120px;
+    display: flex;
+    align-items: baseline
 }
 
 .footer-logo-web {
@@ -558,10 +560,10 @@ img {
 
 .contacts-container {}
 
-.footer-wrap {
+/* .footer-wrap {
     display: flex;
     align-items: baseline
-}
+} */
 
 .contacts-text {
     font-weight: 500;
